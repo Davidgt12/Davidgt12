@@ -15,7 +15,7 @@ Hi, I'm David, an Aeronautic and Space Engineering student at TU Madrid (UPM). I
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<h4>Programming Languages</h4>
+<h4>‍💻 Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Matlab-FF7F00?style=for-the-badge">
