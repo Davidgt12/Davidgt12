@@ -1,4 +1,4 @@
-Hi, I'm David, an Aeronautic and Space Engineering student at TU Madrid (UPM). I'm interested in maths, coding, and of course space engineering.
+Hi, I'm David, an Aeronautic and Space Engineering student at TU Madrid (UPM). I'm interested in maths, coding, and of course aerospace engineering.
 
 
 <h3>
