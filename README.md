@@ -15,7 +15,7 @@ Hi, I'm David, an Aeronautic and Space Engineering student at TU Madrid (UPM). I
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     
   <a href="https://huggingface.co/Dabe" target="_blank">
-        <img src="https://img.shields.io/badge/%F0%9F%A4%97-Models%20on%20Hub-yellow">
+        <img src="https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow">
 </p>
 
 <h4>‍💻 Programming Languages</h4>
