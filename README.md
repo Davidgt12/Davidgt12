@@ -2,7 +2,7 @@ Hi, I'm David, an Aeronautic and Space Engineering student at TU Madrid (UPM). I
 
 
 <h3>
-  🚀 Reach me at
+  🚀 Reach me at 
 </h3> 
 <p>
   <a href="https://www.linkedin.com/in/david-g%C3%B3mez-torija-592b0717a/" target="_blank">
@@ -13,6 +13,9 @@ Hi, I'm David, an Aeronautic and Space Engineering student at TU Madrid (UPM). I
   
   <a href="https://github.com/Davidgt12" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    
+  <a href="https://huggingface.co/Dabe" target="_blank">
+        <img src="https://img.shields.io/badge/%F0%9F%A4%97-Models%20on%20Hub-yellow">
 </p>
 
 <h4>‍💻 Programming Languages</h4>
